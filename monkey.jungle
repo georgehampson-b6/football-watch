@@ -1,0 +1,14 @@
+project.manifest = "manifest.xml"
+appType = "watch-app"
+appId = "com.example.footballwatch"
+appName = "Football Watch"
+appVersion = "1.0.0"
+
+sourcePath = "source"
+resourcePath = "resources"
+barrelPath = "source"
+
+excludeAnnotations = "None"
+
+optimization = 2
+typecheck = strict

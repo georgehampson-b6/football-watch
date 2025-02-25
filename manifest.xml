@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.garmin.com/xml/connectiq"
+          version="1">
+    
+    <application id="com.example.footballwatch"
+                 uuid="12345678-1234-1234-1234-123456789abc"
+                 type="watch-app"
+                 minSdkVersion="3.0.0"
+                 version="1.0.0">
+        
+        <name>Football Watch</name>
+        <permissions>
+            <permission>System.VIBRATE</permission>
+            <permission>System.BLUETOOTH</permission>
+        </permissions>
+        <products>
+            <product id="fenix6" />
+            <product id="venu2" />
+        </products>
+    </application>
+</manifest>
