@@ -1,8 +1,10 @@
 project.manifest = "manifest.xml"
 appType = "watch-app"
-appId = "com.example.footballwatch"
-appName = "Football Watch"
+appId = "com.example.bluetoothapp"
+appName = "BluetoothApp"
 appVersion = "1.0.0"
+appPermissions = "internet"
+
 
 sourcePath = "source"
 resourcePath = "resources"
