@@ -2,69 +2,69 @@
 <debugInfo>
 <manifest filename="C:\Users\George\Documents\football-watch\manifest.xml"/>
 <pcToLineNum>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\gen\\006-B3290-00\\source\\Rez.mcgen" id="1" lineNum="7" parent="globals/Rez" pc="268435460" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="2" lineNum="10" parent="globals/WebRequestApp" pc="268435484" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="3" lineNum="74" parent="globals/WebRequestView" pc="268435503" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="18" parent="globals/WebRequestApp" pc="268435522" symbol="onStart"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="19" parent="globals/WebRequestApp" pc="268435524" symbol="onStart"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="20" parent="globals/WebRequestApp" pc="268435545" symbol="onStart"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="22" parent="globals/WebRequestApp" pc="268435579" symbol="onStart"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="25" parent="globals/WebRequestApp" pc="268435634" symbol="onStart"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="26" parent="globals/WebRequestApp" pc="268435668" symbol="onStart"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="5" lineNum="29" parent="globals/WebRequestApp" pc="268435710" symbol="getInitialView"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="5" lineNum="30" parent="globals/WebRequestApp" pc="268435712" symbol="getInitialView"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="6" lineNum="14" parent="globals/WebRequestApp" pc="268435735" symbol="initialize"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="6" lineNum="15" parent="globals/WebRequestApp" pc="268435737" symbol="initialize"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="55" parent="globals/WebRequestApp" pc="268435760" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="56" parent="globals/WebRequestApp" pc="268435764" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="58" parent="globals/WebRequestApp" pc="268435788" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="59" parent="globals/WebRequestApp" pc="268435806" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="60" parent="globals/WebRequestApp" pc="268435827" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="62" parent="globals/WebRequestApp" pc="268435851" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="63" parent="globals/WebRequestApp" pc="268435855" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="64" parent="globals/WebRequestApp" pc="268435881" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="65" parent="globals/WebRequestApp" pc="268435899" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="68" parent="globals/WebRequestApp" pc="268435929" symbol="onReceive"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="34" parent="globals/WebRequestApp" pc="268435956" symbol="makeRequest"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="35" parent="globals/WebRequestApp" pc="268435960" symbol="makeRequest"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="37" parent="globals/WebRequestApp" pc="268435981" symbol="makeRequest"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="39" parent="globals/WebRequestApp" pc="268435988" symbol="makeRequest"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="51" parent="globals/WebRequestApp" pc="268436098" symbol="makeRequest"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="113" parent="globals/WebRequestView" pc="268436141" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="114" parent="globals/WebRequestView" pc="268436145" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="116" parent="globals/WebRequestView" pc="268436159" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="120" parent="globals/WebRequestView" pc="268436163" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="122" parent="globals/WebRequestView" pc="268436173" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="123" parent="globals/WebRequestView" pc="268436192" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="124" parent="globals/WebRequestView" pc="268436244" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="125" parent="globals/WebRequestView" pc="268436262" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="126" parent="globals/WebRequestView" pc="268436272" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="127" parent="globals/WebRequestView" pc="268436282" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="128" parent="globals/WebRequestView" pc="268436295" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="129" parent="globals/WebRequestView" pc="268436314" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="130" parent="globals/WebRequestView" pc="268436324" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="131" parent="globals/WebRequestView" pc="268436334" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="133" parent="globals/WebRequestView" pc="268436347" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="134" parent="globals/WebRequestView" pc="268436357" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="135" parent="globals/WebRequestView" pc="268436367" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="139" parent="globals/WebRequestView" pc="268436377" symbol="updateImage"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="83" parent="globals/WebRequestView" pc="268436394" symbol="initialize"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="84" parent="globals/WebRequestView" pc="268436396" symbol="initialize"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="85" parent="globals/WebRequestView" pc="268436414" symbol="initialize"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="86" parent="globals/WebRequestView" pc="268436461" symbol="initialize"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="87" parent="globals/WebRequestView" pc="268436508" symbol="initialize"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="90" parent="globals/WebRequestView" pc="268436556" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="91" parent="globals/WebRequestView" pc="268436558" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="92" parent="globals/WebRequestView" pc="268436579" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="93" parent="globals/WebRequestView" pc="268436603" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="94" parent="globals/WebRequestView" pc="268436624" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="97" parent="globals/WebRequestView" pc="268436717" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="98" parent="globals/WebRequestView" pc="268436741" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="99" parent="globals/WebRequestView" pc="268436762" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="102" parent="globals/WebRequestView" pc="268436855" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="103" parent="globals/WebRequestView" pc="268436879" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="104" parent="globals/WebRequestView" pc="268436900" symbol="onUpdate"/>
-<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="108" parent="globals/WebRequestView" pc="268436993" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\gen\\006-B4257-00\\source\\Rez.mcgen" id="1" lineNum="7" parent="globals/Rez" pc="268435460" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="2" lineNum="10" parent="globals/WebRequestApp" pc="268435480" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="3" lineNum="74" parent="globals/WebRequestView" pc="268435492" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="18" parent="globals/WebRequestApp" pc="268435504" symbol="onStart"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="19" parent="globals/WebRequestApp" pc="268435506" symbol="onStart"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="20" parent="globals/WebRequestApp" pc="268435524" symbol="onStart"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="22" parent="globals/WebRequestApp" pc="268435553" symbol="onStart"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="25" parent="globals/WebRequestApp" pc="268435594" symbol="onStart"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="4" lineNum="26" parent="globals/WebRequestApp" pc="268435623" symbol="onStart"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="5" lineNum="29" parent="globals/WebRequestApp" pc="268435655" symbol="getInitialView"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="5" lineNum="30" parent="globals/WebRequestApp" pc="268435657" symbol="getInitialView"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="6" lineNum="14" parent="globals/WebRequestApp" pc="268435670" symbol="initialize"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="6" lineNum="15" parent="globals/WebRequestApp" pc="268435672" symbol="initialize"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="55" parent="globals/WebRequestApp" pc="268435689" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="56" parent="globals/WebRequestApp" pc="268435692" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="58" parent="globals/WebRequestApp" pc="268435713" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="59" parent="globals/WebRequestApp" pc="268435728" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="60" parent="globals/WebRequestApp" pc="268435746" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="62" parent="globals/WebRequestApp" pc="268435767" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="63" parent="globals/WebRequestApp" pc="268435771" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="64" parent="globals/WebRequestApp" pc="268435795" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="65" parent="globals/WebRequestApp" pc="268435812" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="7" lineNum="68" parent="globals/WebRequestApp" pc="268435839" symbol="onReceive"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="34" parent="globals/WebRequestApp" pc="268435862" symbol="makeRequest"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="35" parent="globals/WebRequestApp" pc="268435865" symbol="makeRequest"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="37" parent="globals/WebRequestApp" pc="268435883" symbol="makeRequest"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="39" parent="globals/WebRequestApp" pc="268435890" symbol="makeRequest"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="8" lineNum="51" parent="globals/WebRequestApp" pc="268435939" symbol="makeRequest"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="113" parent="globals/WebRequestView" pc="268435972" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="114" parent="globals/WebRequestView" pc="268435975" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="116" parent="globals/WebRequestView" pc="268435986" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="120" parent="globals/WebRequestView" pc="268435990" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="122" parent="globals/WebRequestView" pc="268435999" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="123" parent="globals/WebRequestView" pc="268436016" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="124" parent="globals/WebRequestView" pc="268436053" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="125" parent="globals/WebRequestView" pc="268436068" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="126" parent="globals/WebRequestView" pc="268436076" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="127" parent="globals/WebRequestView" pc="268436084" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="128" parent="globals/WebRequestView" pc="268436095" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="129" parent="globals/WebRequestView" pc="268436112" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="130" parent="globals/WebRequestView" pc="268436120" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="131" parent="globals/WebRequestView" pc="268436128" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="133" parent="globals/WebRequestView" pc="268436139" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="134" parent="globals/WebRequestView" pc="268436147" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="135" parent="globals/WebRequestView" pc="268436155" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="9" lineNum="139" parent="globals/WebRequestView" pc="268436163" symbol="updateImage"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="83" parent="globals/WebRequestView" pc="268436175" symbol="initialize"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="84" parent="globals/WebRequestView" pc="268436177" symbol="initialize"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="85" parent="globals/WebRequestView" pc="268436189" symbol="initialize"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="86" parent="globals/WebRequestView" pc="268436227" symbol="initialize"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="10" lineNum="87" parent="globals/WebRequestView" pc="268436265" symbol="initialize"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="90" parent="globals/WebRequestView" pc="268436304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="91" parent="globals/WebRequestView" pc="268436306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="92" parent="globals/WebRequestView" pc="268436324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="93" parent="globals/WebRequestView" pc="268436341" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="94" parent="globals/WebRequestView" pc="268436359" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="97" parent="globals/WebRequestView" pc="268436421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="98" parent="globals/WebRequestView" pc="268436438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="99" parent="globals/WebRequestView" pc="268436456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="102" parent="globals/WebRequestView" pc="268436518" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="103" parent="globals/WebRequestView" pc="268436535" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="104" parent="globals/WebRequestView" pc="268436553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\George\\Documents\\football-watch\\source\\main.mc" id="11" lineNum="108" parent="globals/WebRequestView" pc="268436615" symbol="onUpdate"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -112,18 +112,18 @@
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
-<entry arg="true" endPc="268435709" name="state" stackId="1" startPc="268435522"/>
-<entry arg="true" endPc="268435955" name="responseCode" stackId="1" startPc="268435760"/>
-<entry arg="true" endPc="268435955" name="data" stackId="2" startPc="268435760"/>
-<entry endPc="268435951" name="responseDict" stackId="3" startPc="268435806"/>
-<entry endPc="268435948" name="status" stackId="4" startPc="268435881"/>
-<entry endPc="268436139" name="url" stackId="1" startPc="268435960"/>
-<entry endPc="268436139" name="options" stackId="2" startPc="268435960"/>
-<entry arg="true" endPc="268436393" name="newStatus" stackId="1" startPc="268436141"/>
-<entry endPc="268436291" name="vibePattern" stackId="2" startPc="268436192"/>
-<entry arg="true" endPc="268437014" name="dc" stackId="1" startPc="268436556"/>
+<entry arg="true" endPc="268435654" name="state" stackId="1" startPc="268435504"/>
+<entry arg="true" endPc="268435861" name="responseCode" stackId="1" startPc="268435689"/>
+<entry arg="true" endPc="268435861" name="data" stackId="2" startPc="268435689"/>
+<entry endPc="268435857" name="responseDict" stackId="3" startPc="268435728"/>
+<entry endPc="268435854" name="status" stackId="4" startPc="268435795"/>
+<entry endPc="268435970" name="url" stackId="1" startPc="268435865"/>
+<entry endPc="268435970" name="options" stackId="2" startPc="268435865"/>
+<entry arg="true" endPc="268436174" name="newStatus" stackId="1" startPc="268435972"/>
+<entry endPc="268436091" name="vibePattern" stackId="2" startPc="268436016"/>
+<entry arg="true" endPc="268436633" name="dc" stackId="1" startPc="268436304"/>
 </localVars>
-<deviceInfo deviceVersion="722eeea457636580f75a28ae6c94dcea8ad83696" partNumber="006-B3290-00"/>
+<deviceInfo deviceVersion="4866e5192c0c99025597cd8e6e841f3d774b64f7" partNumber="006-B4257-00"/>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="noGoalImage"/>
@@ -132,21 +132,21 @@
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
 </annotations>
 <dataEntryOffsetMappings>
-<dataEntry label="globals" offset="55" parentId="" symbolId="globals" type="module"/>
-<dataEntry label="globals/Rez" offset="118" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/WebRequestApp" offset="165" parentId="globals" symbolId="WebRequestApp" type="class"/>
-<dataEntry label="globals/WebRequestView" offset="260" parentId="globals" symbolId="WebRequestView" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="379" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="442" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="107" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/WebRequestApp" offset="151" parentId="globals" symbolId="WebRequestApp" type="class"/>
+<dataEntry label="globals/WebRequestView" offset="249" parentId="globals" symbolId="WebRequestView" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="374" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="436" parentId="Rez" symbolId="Strings" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
-<functionEntry accessMode="public" endPc="268435483" name="&lt;init&gt;" parent="Rez" startPc="268435460">
+<functionEntry accessMode="public" endPc="268435479" name="&lt;init&gt;" parent="Rez" startPc="268435460">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435502" name="&lt;init&gt;" parent="WebRequestApp" startPc="268435484">
+<functionEntry accessMode="public" endPc="268435491" name="&lt;init&gt;" parent="WebRequestApp" startPc="268435480">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435521" name="&lt;init&gt;" parent="WebRequestView" startPc="268435503">
+<functionEntry accessMode="public" endPc="268435503" name="&lt;init&gt;" parent="WebRequestView" startPc="268435492">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
@@ -155,32 +155,32 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435709" name="onStart" parent="WebRequestApp" startPc="268435522">
+<functionEntry accessMode="public" endPc="268435654" name="onStart" parent="WebRequestApp" startPc="268435504">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435734" name="getInitialView" parent="WebRequestApp" startPc="268435710">
+<functionEntry accessMode="public" endPc="268435669" name="getInitialView" parent="WebRequestApp" startPc="268435655">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435759" name="initialize" parent="WebRequestApp" startPc="268435735">
+<functionEntry accessMode="public" endPc="268435688" name="initialize" parent="WebRequestApp" startPc="268435670">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435955" name="onReceive" parent="WebRequestApp" startPc="268435760">
+<functionEntry accessMode="public" endPc="268435861" name="onReceive" parent="WebRequestApp" startPc="268435689">
 <param id="responseCode"/>
 <param id="data"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436140" name="makeRequest" parent="WebRequestApp" startPc="268435956">
+<functionEntry accessMode="public" endPc="268435971" name="makeRequest" parent="WebRequestApp" startPc="268435862">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436393" name="updateImage" parent="WebRequestView" startPc="268436141">
+<functionEntry accessMode="public" endPc="268436174" name="updateImage" parent="WebRequestView" startPc="268435972">
 <param id="newStatus"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436555" name="initialize" parent="WebRequestView" startPc="268436394">
+<functionEntry accessMode="public" endPc="268436303" name="initialize" parent="WebRequestView" startPc="268436175">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437014" name="onUpdate" parent="WebRequestView" startPc="268436556">
+<functionEntry accessMode="public" endPc="268436633" name="onUpdate" parent="WebRequestView" startPc="268436304">
 <param id="dc"/>
 <documentation/>
 </functionEntry>

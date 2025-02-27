@@ -34,7 +34,7 @@ class WebRequestApp extends Application.AppBase {
     function makeRequest() as Void {
         System.println("📡 Sending request to server...");
 
-        var url = "http://192.168.178.73:8889";
+        var url = "http://192.168.137.1:8888";
 
         var options = {
             :method => Communications.HTTP_REQUEST_METHOD_GET,

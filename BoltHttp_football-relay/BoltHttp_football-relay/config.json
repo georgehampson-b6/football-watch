@@ -1,0 +1,10 @@
+{
+    "http_port": 8889,
+    "http_host": "0.0.0.0",
+    "http_path": "/",
+    "nats_servers":
+        {
+            "url": "nats://k8s-charlton-traefike-c77fcc4307-40bb375fa565688a.elb.eu-west-2.amazonaws.com:4222",
+            "topic": "external.goal"
+        }
+}

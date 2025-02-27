@@ -1,5 +1,6 @@
 import asyncio
 import random
+import time  # Import time module
 
 from nats.aio.client import Client as NATS
 
@@ -12,17 +13,23 @@ async def publish_messages():
     subject = "external.goal"
     message = '{"status": "goal"}'
 
-    # Publish 100 messages per second
+    # Publish 1000 messages per second
     try:
         while True:
             for _ in range(1000):
+                start_time = time.perf_counter()  # Start timing
                 message = random.choice(["goal", "no-goal"])
                 data = str(message)
-                print(message)
                 await nc.publish(subject, data.encode())
-                await asyncio.sleep(30) # Wait for 1 second
+                end_time = time.perf_counter()  # End timing
+
+                elapsed_time = (end_time - start_time) * 1000  # Convert to milliseconds
+                print(f"Message: {message} | Time Taken: {elapsed_time:.3f} ms")
+
+                await asyncio.sleep(5)  # Wait for 30 seconds
+
             print("Sent 100 messages.")
-            await asyncio.sleep(30)  # Wait for 1 second
+            await asyncio.sleep(5)  # Wait for 30 seconds
     except asyncio.CancelledError:
         print("Stopped sending messages.")
     finally:
@@ -32,9 +39,7 @@ async def publish_messages():
 async def main():
     task = asyncio.create_task(publish_messages())
 
-    # Run for 10 seconds and then stop
-    # await asyncio.sleep(10)
-    # task.cancel()
+    # Run indefinitely
     await asyncio.gather(task, return_exceptions=True)
 
 

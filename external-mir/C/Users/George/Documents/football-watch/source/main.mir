@@ -122,7 +122,7 @@ C_Users_George_Documents_football_watch_source_main_mc_34_35_52_4_start:
         [ "C_Users_George_Documents_football_watch_source_main_mc_34_35_52_4_start" "C_Users_George_Documents_football_watch_source_main_mc_34_35_52_4_stop" ]
         %url.1 = local;
         symbol [ url %url.1 37 12 15 ];
-        %tmp.4 = "http://192.168.178.73:8889";
+        %tmp.4 = "http://192.168.137.1:8888";
         lputv %url.1 %tmp.4;
         symbol [ url %url.1 37 12 15 ];
 [ "C:\Users\George\Documents\football-watch\source\main.mc" 39 8 ]
