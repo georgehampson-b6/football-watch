@@ -1,4 +1,6 @@
 <resources>
     <bitmap id="LauncherIcon" filename="images/icon.png" />
-    <bitmap id="goalImage" filename="images/goal_image.png" />
+    <bitmap id="goalImage" filename="images/goalImage.png"/>
+	<bitmap id="noGoalImage" filename="images/noGoalImage.png"/>
+	<bitmap id="noDataImage" filename="images/noDataImage.png"/>
 </resources>
